@@ -2,7 +2,7 @@
 //
 //		go-media-metadata - https://www.github.com/hairlesshobo/go-media-metadata
 //
-//	 go-xlive currently does nothing - but will hoepfully one day allow for
+//	 go-media-metadata currently does nothing - but will hoepfully one day allow for
 //   easy extraction of metadata from mov files and maybe more.
 //
 //		Copyright (c) 2024 Steve Cross <flip@foxhollow.cc>

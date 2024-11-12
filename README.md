@@ -1,4 +1,4 @@
-# go-xlive
+# go-media-metadata
 
 ## Introduction
 
